@@ -1,0 +1,32 @@
+2020-06-18 16:20:44 - INFO  | [TestNG] Log:24 - Setting caps
+2020-06-18 16:20:44 - INFO  | [TestNG] Log:24 - Creating driver
+2020-06-18 16:20:50 - INFO  | [TestNG] Log:24 - Starting test
+2020-06-18 16:20:50 - INFO  | [TestNG] Log:39 - Waiting for element with Locator to be displayed: By.xpath: //android.support.v7.widget.LinearLayoutCompat//android.widget.ImageView?
+2020-06-18 16:20:50 - INFO  | [TestNG] Log:24 - 	Wait object created
+2020-06-18 16:20:55 - WARN  | [TestNG] Log:47 - 	Element 'By.xpath: //android.support.v7.widget.LinearLayoutCompat//android.widget.ImageView?' not displayed within 10 seconds
+2020-06-18 16:20:55 - INFO  | [TestNG] Log:24 - Ending session
+2020-06-18 16:29:44 - INFO  | [TestNG] Log:24 - Setting caps
+2020-06-18 16:29:44 - INFO  | [TestNG] Log:24 - Setting caps
+2020-06-18 16:29:44 - INFO  | [TestNG] Log:24 - Creating driver
+2020-06-18 16:29:49 - INFO  | [TestNG] Log:24 - Starting test
+2020-06-18 16:29:49 - INFO  | [TestNG] Log:39 - Waiting for element with Locator to be displayed: By.xpath: //android.support.v7.widget.LinearLayoutCompat//android.widget.ImageView?
+2020-06-18 16:29:49 - INFO  | [TestNG] Log:24 - 	Wait object created
+2020-06-18 16:29:53 - INFO  | [TestNG] Log:24 - Starting test2
+2020-06-18 16:29:53 - INFO  | [TestNG] Log:39 - Waiting for element with Locator to be displayed: By.xpath: //android.support.v7.widget.LinearLayoutCompat//android.widget.ImageView?
+2020-06-18 16:29:53 - INFO  | [TestNG] Log:24 - 	Wait object created
+2020-06-18 16:29:56 - WARN  | [TestNG] Log:47 - 	Element 'By.xpath: //android.support.v7.widget.LinearLayoutCompat//android.widget.ImageView?' not displayed within 10 seconds
+2020-06-18 16:29:56 - INFO  | [TestNG] Log:24 - Ending session
+2020-06-18 16:29:58 - WARN  | [TestNG] Log:47 - 	Element 'By.xpath: //android.support.v7.widget.LinearLayoutCompat//android.widget.ImageView?' not displayed within 10 seconds
+2020-06-18 16:29:58 - INFO  | [TestNG] Log:24 - Ending session
+2020-06-18 16:30:26 - INFO  | [pool-1-thread-2] Log:24 - Setting caps
+2020-06-18 16:30:26 - INFO  | [pool-1-thread-1] Log:24 - Setting caps
+2020-06-18 16:30:26 - INFO  | [pool-1-thread-1] Log:24 - Creating driver
+2020-06-18 16:30:32 - INFO  | [pool-1-thread-1] Log:24 - Starting test
+2020-06-18 16:30:32 - INFO  | [pool-1-thread-1] Log:39 - Waiting for element with Locator to be displayed: By.xpath: //android.support.v7.widget.LinearLayoutCompat//android.widget.ImageView?
+2020-06-18 16:30:32 - INFO  | [pool-1-thread-1] Log:24 - 	Wait object created
+2020-06-18 16:30:32 - INFO  | [pool-1-thread-2] Log:24 - Starting test2
+2020-06-18 16:30:32 - INFO  | [pool-1-thread-2] Log:39 - Waiting for element with Locator to be displayed: By.xpath: //android.support.v7.widget.LinearLayoutCompat//android.widget.ImageView?
+2020-06-18 16:30:32 - INFO  | [pool-1-thread-2] Log:24 - 	Wait object created
+2020-06-18 16:30:37 - WARN  | [pool-1-thread-1] Log:47 - 	Element 'By.xpath: //android.support.v7.widget.LinearLayoutCompat//android.widget.ImageView?' not displayed within 10 seconds
+2020-06-18 16:30:37 - INFO  | [pool-1-thread-1] Log:24 - Ending session
+2020-06-18 16:30:37 - INFO  | [pool-1-thread-2] Log:24 - Ending session

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Parallel]" parallel="methods">
+  <parameter name="config" value="parallel.conf.json"/>
+  <test name="SingleTestPixel">
+    <parameter name="config" value="parallel.conf.json"/>
+    <classes>
+      <class name="com.test.SingleTest"/>
+    </classes>
+  </test> <!-- SingleTestPixel -->
+  <test name="SingleTestPixel(failed)" parallel="methods">
+    <parameter name="config" value="parallel.conf.json"/>
+    <classes>
+      <class name="com.test.SingleTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="test2"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.test.SingleTest -->
+    </classes>
+  </test> <!-- SingleTestPixel(failed) -->
+</suite> <!-- Failed suite [Parallel] -->

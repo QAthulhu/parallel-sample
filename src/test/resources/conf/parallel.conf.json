@@ -1,0 +1,9 @@
+{
+  "capabilities": {
+  	"platformName": "Android",
+    "automationName": "UiAutomator2",
+    "noReset": false,
+    "unicodeKeyboard": true,
+    "resetKeyboard": true
+  }
+}
